@@ -1,6 +1,6 @@
 # Type Text
 
-![typetextanim](https://github.com/heliogoodbye/Type-Text/assets/105381685/07a32e04-d921-4686-a9f8-4292e905d501)
+![typetext-anim](https://github.com/heliogoodbye/Type-Text/assets/105381685/c476835e-6bd9-468f-9f07-958ac38edf23)
 
 Created just for fun, **Type Text** is a WordPress plugin designed to simulate the effect of text being typed out on a typewriter. It allows users to create dynamic and engaging textual content on their WordPress websites. 
 
