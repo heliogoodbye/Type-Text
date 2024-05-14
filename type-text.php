@@ -3,8 +3,10 @@
 Plugin Name: Type Text
 Description: This plugin allows you to display text like it's being typed on a typewriter.
 Version: 1.0
-Author: Your Name
-License: GPL3
+Author: Haley Stelly
+Author URI: http://stly.dev/
+License: GPL-3.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
 // Register shortcode
