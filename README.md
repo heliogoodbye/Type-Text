@@ -1,4 +1,4 @@
-# Type-Text
+# Type Text
 
 Created just for fun, **Type Text** is a WordPress plugin designed to simulate the effect of text being typed out on a typewriter. It allows users to create dynamic and engaging textual content on their WordPress websites. 
 
